@@ -10,4 +10,5 @@ This included:
 
 I overall build of the project was made with a lot of 3D printed components that I 3D modelled on my own using 3Ds Max
 <p align="center">
-[![T-Intersection Video](https://i9.ytimg.com/vi/hz_YgA0jI1s/mqdefault.jpg?time=1578896287930&sqp=COSV8PAF&rs=AOn4CLDPBEQ49OCDML_WxjBWV9jvh4mUag)](https://youtu.be/hz_YgA0jI1s)</p>
+[![T-Intersection Video](https://i9.ytimg.com/vi/hz_YgA0jI1s/mqdefault.jpg?time=1578896287930&sqp=COSV8PAF&rs=AOn4CLDPBEQ49OCDML_WxjBWV9jvh4mUag)](https://youtu.be/hz_YgA0jI1s)
+</p>
